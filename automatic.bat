@@ -8,7 +8,7 @@ echo.
 echo.
 
 D:
-cd MarkDownNote
+cd D:\MarkDownNote
 
 git pull
 git add .
