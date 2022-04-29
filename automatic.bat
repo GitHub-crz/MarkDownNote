@@ -1,13 +1,12 @@
 @echo off
-chcp 65001
+
 echo.
 echo                                      GitHub自动上传脚本
 echo ===================================================================================
 echo.
 
-set /p branch=请输入你的分支名：
-set /p change=请输入commit名：
 echo.
+
 D:
 cd MarkDownNote
 
